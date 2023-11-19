@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    Hello nuxt 3
   </div>
 </template>

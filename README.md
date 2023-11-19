@@ -1,4 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Disclaimer
+This is a project that i followed to get a basic understanding of nuxt 3. With some minor tweaks ofcourse. Project is from [CodewithGuillaume](https://www.youtube.com/watch?v=ww94Jvi8JJo)
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
